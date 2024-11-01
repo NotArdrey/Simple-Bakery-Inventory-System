@@ -9,7 +9,7 @@ Welcome to the **Simple Bakery Inventory System** repository! This project is de
 - **User Authentication**: Admins can securely log in to manage the inventory.
 
 ## Technologies Used
-
+ 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: PHP
 - **Database**: MySQL
